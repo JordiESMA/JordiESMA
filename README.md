@@ -1,120 +1,187 @@
-```html
 <h1 align="center">Hi 👋, I'm Jordi</h1>
+
 <h3 align="center">Java & Backend Developer | DAM Student</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jordiesma" alt="jordiesma" />
+  <a href="https://github.com/JordiESMA">
+    <img src="https://img.shields.io/github/followers/JordiESMA?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/JordiESMA">
+    <img src="https://img.shields.io/github/stars/JordiESMA?label=Stars&style=for-the-badge" alt="GitHub stars"/>
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Workshop Management System**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Spring Boot, REST APIs and PostgreSQL**
+I'm a **DAM (Multiplatform Application Development) student** interested in **Backend Development**, especially with **Java and Spring Boot**.
 
-- 👯 I’m looking to collaborate on **Java and Spring Boot projects**
+I enjoy learning new technologies by building my own projects and understanding how things work behind the scenes.
 
-- 🤝 I’m looking for help with **Spring Boot and Backend Development**
+Currently, I'm focusing on:
 
-- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/JordiESMA)**
+* ☕ Java
+* 🌱 Spring Boot
+* 🔌 REST APIs
+* 🗄️ SQL & PostgreSQL
+* 🧠 Backend architecture and application logic
 
-- 📝 I regularly write about **my thoughts and experiences in tech**
-
-- 💬 Ask me about **Java, MySQL and JavaScript**
-
-- 📄 Know about my experiences **[My Resume](https://portfolio-web.estiradojordi9.workers.dev/)**
-
-- ⚡ Fun fact **I enjoy learning new technologies by building my own projects.**
+I'm also interested in learning more about frontend technologies so I can build complete applications and use them to test and interact with my backend projects.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Currently Working On
 
-<p align="left">
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+🔧 **Workshop Management System**
 
-  <a href="https://www.linkedin.com/in/jordiestiradomartinez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+A management system for a mechanical workshop, currently being developed with **Spring Boot and PostgreSQL**.
+
+I'm using this project to improve my knowledge of:
+
+* REST APIs
+* Backend architecture
+* Database design
+* Application logic
+* Spring Boot
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🌱 Currently Learning
+
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* Backend development
+* Better software architecture
+* Java best practices
+
+---
+
+## 💻 Technologies & Tools
+
+### Backend
 
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
   </a>
 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
   </a>
 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
   </a>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  </a>
+</p>
+
+### Databases
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+  </a>
+</p>
+
+### Frontend
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  </a>
+</p>
+
+### Other Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordiesma&show_icons=true&locale=en&layout=compact" alt="jordiesma" />
+## 📂 Featured Projects
+
+### 🔧 Workshop Management System
+
+Backend-oriented management system for a mechanical workshop.
+
+**Technologies:** Java · Spring Boot · PostgreSQL
+
+---
+
+### 🌐 Other Projects
+
+I also have projects involving **Java, PHP, Laravel, JavaScript and SQL**, where I have worked with CRUD applications, databases, APIs and application logic.
+
+👉 Check out my repositories to see what I'm currently building.
+
+---
+
+## 📝 Tech & Learning
+
+I regularly write about my **thoughts, experiences and things I'm learning in technology**.
+
+I use these projects and notes as a way to document my progress and keep improving as a developer.
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jordiestiradomartinez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordiesma&show_icons=true&locale=en" alt="jordiesma" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordiesma&show_icons=true&locale=en&hide_border=true" alt="Jordi's GitHub stats"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordiesma" alt="jordiesma" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordiesma&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Jordi's top languages"/>
 </p>
-```
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordiesma&hide_border=true" alt="Jordi's GitHub streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, always building. 🚀</i>
+</p>
