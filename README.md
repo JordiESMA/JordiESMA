@@ -155,7 +155,7 @@ I use these projects and notes as a way to document my progress and keep improvi
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:estriradojordi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
@@ -168,13 +168,6 @@ I use these projects and notes as a way to document my progress and keep improvi
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordiesma&show_icons=true&locale=en&hide_border=true" alt="Jordi's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordiesma&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Jordi's top languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordiesma&hide_border=true" alt="Jordi's GitHub streak"/>
