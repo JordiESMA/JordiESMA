@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jordi</h1>
+# Hi 👋, I'm Jordi
 
-<h3 align="center">Java & Backend Developer | DAM Student</h3>
+<h3 align="center">Backend Developer | 2nd Year DAM Student</h3>
 
 <p align="center">
   <a href="https://github.com/JordiESMA">
@@ -15,140 +15,123 @@
 
 ## 👨‍💻 About Me
 
-I'm a **DAM (Multiplatform Application Development) student** interested in **Backend Development**, especially with **Java and Spring Boot**.
+I'm a **2nd-year DAM (Multiplatform Application Development) student** with a strong interest in **Backend Development**, especially using Java, Spring Boot and SQL.
 
-I enjoy learning new technologies by building my own projects and understanding how things work behind the scenes.
+I enjoy developing personal and academic projects to put my knowledge into practice, learn new technologies and understand how applications work behind the scenes.
 
-Currently, I'm focusing on:
+My main interests are:
 
-* ☕ Java
-* 🌱 Spring Boot
-* 🔌 REST APIs
-* 🗄️ SQL & PostgreSQL
-* 🧠 Backend architecture and application logic
+- Backend development with Java and Spring Boot.
+- REST API development.
+- Relational databases and SQL.
+- Application logic and software architecture.
+- Mobile application development.
 
-I'm also interested in learning more about frontend technologies so I can build complete applications and use them to test and interact with my backend projects.
+I also have experience working with frontend technologies and mobile development, which allows me to build and understand different parts of an application.
 
 ---
 
 ## 🚀 Currently Working On
 
-🔧 **Workshop Management System**
+### 🔧 Workshop Management System
 
-A management system for a mechanical workshop, currently being developed with **Spring Boot and PostgreSQL**.
+A management application for a mechanical workshop, developed with **Java, Spring Boot and PostgreSQL**.
 
-I'm using this project to improve my knowledge of:
+This project helps me improve my knowledge of:
 
-* REST APIs
-* Backend architecture
-* Database design
-* Application logic
-* Spring Boot
+- REST API development.
+- Backend architecture.
+- Database design and relationships.
+- Business logic.
+- Application structure and best practices.
 
 ---
 
 ## 🌱 Currently Learning
 
-* Spring Boot
-* REST APIs
-* PostgreSQL
-* Backend development
-* Better software architecture
-* Java best practices
+- Java and Spring Boot.
+- REST APIs and backend architecture.
+- SQL and PostgreSQL.
+- Swift and SwiftUI.
+- Improving code quality and software design.
 
 ---
 
 ## 💻 Technologies & Tools
 
-### Backend
+### Backend & Programming Languages
 
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="45" height="45"/>
+</p>
 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="45" height="45"/>
-  </a>
+### Frameworks & Development
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
-  </a>
-
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
-  </a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="SwiftUI" width="45" height="45"/>
 </p>
 
 ### Databases
 
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle / PL-SQL" width="45" height="45"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
 </p>
 
-### Other Tools
+### Mobile Development & Tools
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
+### ⚽ Football League Management API
+
+A football league management project developed with Java and Spring Boot, focused on teams, players, matches and match events.
+
+### 🎟️ ShareTicket
+
+An Android application developed with Kotlin, Jetpack Compose and Firebase for sharing and managing tickets.
+
 ### 🔧 Workshop Management System
 
-Backend-oriented management system for a mechanical workshop.
+A backend-oriented management application for a mechanical workshop using Java, Spring Boot and PostgreSQL.
 
-**Technologies:** Java · Spring Boot · PostgreSQL
+### 🌐 Web Development Projects
 
----
-
-### 🌐 Other Projects
-
-I also have projects involving **Java, PHP, Laravel, JavaScript and SQL**, where I have worked with CRUD applications, databases, APIs and application logic.
-
-👉 Check out my repositories to see what I'm currently building.
+Different projects developed with JavaScript, PHP, Laravel, HTML and CSS, including CRUD applications and database management.
 
 ---
 
 ## 📝 Tech & Learning
 
-I regularly write about my **thoughts, experiences and things I'm learning in technology**.
-
-I use these projects and notes as a way to document my progress and keep improving as a developer.
+I enjoy documenting my progress, experimenting with new technologies and sharing what I learn through personal projects.
 
 ---
 
@@ -158,19 +141,12 @@ I use these projects and notes as a way to document my progress and keep improvi
   <a href="mailto:estriradojordi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
   <a href="https://www.linkedin.com/in/jordiestiradomartinez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordiesma&hide_border=true" alt="Jordi's GitHub streak"/>
+  <a href="https://astroportfolioweb.estiradojordi9.workers.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
