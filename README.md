@@ -3,7 +3,7 @@
 ### Backend & Mobile Developer | DAM Student
 
 <p align="center">
- <img src="./fotoCV.png" width="150" alt="Jordi's profile picture" />
+ <img src="./fotoCV.jpeg" width="150" alt="Jordi's profile picture" />
 </p>
 
 <p align="center">
